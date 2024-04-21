@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c78542a0.css",
+    "main.js": "/static/js/main.0df1d8fd.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/Shipraxbgromoved.png": "/static/media/Shipraxbgromoved.4d940f3730220a2e8c2d.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.965d92ce0d9f486938b6.png",
+    "static/media/right.png": "/static/media/right.10fe0f8c0cfcd3e6aae6.png",
+    "static/media/map.png": "/static/media/map.34589de5eb1aa78a5c68.png",
+    "static/media/handshake.png": "/static/media/handshake.65bcad809362961ab098.png",
+    "static/media/like.svg": "/static/media/like.4519fc82693a84986fd6838c57783dee.svg",
+    "index.html": "/index.html",
+    "main.c78542a0.css.map": "/static/css/main.c78542a0.css.map",
+    "main.0df1d8fd.js.map": "/static/js/main.0df1d8fd.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c78542a0.css",
+    "static/js/main.0df1d8fd.js"
+  ]
+}
